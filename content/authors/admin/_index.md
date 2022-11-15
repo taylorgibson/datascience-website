@@ -1,30 +1,30 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Taylor Gibson
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Taylor
+last_name: Gibson
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Dean of Data Science & Interdisciplinary Iniatives
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: NCSSM
+    url: https://www.ncssm.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests revolve around the intersection of computing and mathematics/science.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Python / Jupyter Notebookes
+  - Open Source
 
 # Education to show in About widget
 education:
@@ -49,19 +49,16 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/NCSSMGibson
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/taylorgibson
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/taylorgibsonncssm/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -77,8 +74,6 @@ email: ''
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Taylor Gibson has served as the Dean of Data Science and Interdisciplinary Initiatives since 2022. In this role he helps develop new data science and interdisciplinary coursework and collaborates with faculty from all departments to deliver these new opportunities to students across all of NCSSM's campuses and programs. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Previously Taylor was a member of the mathematics faculty from 2013 to 2022, serving as the Dean of Mathematics from 2018 to 2022. In the Mathematics Department he helped create new courses in cryptography and data science and piloted a new standards-based grading approach to assessment. Taylor holds a bachelor's degree in biomedical engineering from the Georgia Institute of Technology, and a master's degree in mathematics education from the University of Georgia.
