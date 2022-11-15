@@ -16,7 +16,6 @@ design:
     gradient_end: "#1976d2"
     gradient_start: "#004ba0"
     text_color_light: true
-hero_media: hero-academic.png
 ---
 **The homepage for things data science at NCSSM.**
 
